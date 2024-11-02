@@ -24,5 +24,4 @@ This is a simple REST API for managing bank accounts, built using JAX-RS with Je
 3. **Test Endpoints**: Access endpoints at `http://localhost:8083/banque/comptes`.
 
 ## Demo
-
-![Demo Video](jaxrs.mp4)
+https://github.com/user-attachments/assets/c3b02e02-c206-452b-a1b8-0eecce7e2914
